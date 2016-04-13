@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import org.apache.commons.net.ftp.FTPClient;
 import projetocsv.controller.Oracle;
-import projetocsv.controller.ExportCSV;
+//import projetocsv.controller.ExportCSV;
 
 /**
  *
